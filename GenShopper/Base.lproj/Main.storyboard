@@ -58,7 +58,7 @@
                                         </tableViewCellContentView>
                                         <connections>
                                             <outlet property="categoryImage" destination="4Fu-5x-uRR" id="kvX-VV-sty"/>
-                                            <outlet property="categoryTitile" destination="TGV-IS-Wts" id="GIE-Og-6Se"/>
+                                            <outlet property="categoryTitle" destination="TGV-IS-Wts" id="GIE-Og-6Se"/>
                                         </connections>
                                     </tableViewCell>
                                 </prototypes>
